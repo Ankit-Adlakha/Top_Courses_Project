@@ -1,31 +1,8 @@
-# React & Tailwind CSS Starter Pack
+#Top_Courses_Web using React.
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+![Screenshot 2023-11-11 222919](https://github.com/Ankit-Adlakha/Top_Courses_Project/assets/92292251/dd6c06bb-9fbf-4a3a-93f2-20f23d3dee23)
 
-## Usage
+![Screenshot 2023-11-11 223011](https://github.com/Ankit-Adlakha/Top_Courses_Project/assets/92292251/c43ddc27-f300-41d2-ac2c-c28673a564e2)
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
-
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
-
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
-
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+![Screenshot 2023-11-11 223036](https://github.com/Ankit-Adlakha/Top_Courses_Project/assets/92292251/8893db6c-5b5a-4112-ad3a-2918c89dfc1d)
